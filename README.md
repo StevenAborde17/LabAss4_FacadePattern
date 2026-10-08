@@ -12,7 +12,7 @@ The HotelApp needs to manage various hotel services for guest check-in and check
 # UML Diagram:
 ![alt text](image.png)
 
-**Output:**
+**Output:** \
 Vehicle with the plate number NHA 1254 is ready for pick up. \
 Room number 34 has been cleaned. \
 Requested number of carts: 2
